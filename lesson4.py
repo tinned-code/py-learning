@@ -17,6 +17,7 @@ init()
 print(Fore.MAGENTA + "这行是洋红色的")
 print(Fore.GREEN + "这行是绿色的")
 print(Fore.YELLOW + "这行是黄色的")
+print(Fore.BLUE + "这行是蓝色的（Git 实验加的一行）")
 print(Fore.CYAN + "这行是青色")
 print(Style.RESET_ALL + "颜色关掉了，恢复正常")
 
