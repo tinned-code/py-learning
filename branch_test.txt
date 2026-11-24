@@ -1,0 +1,4 @@
+这是 experiment 分支上新建的文件。
+
+如果 git switch 真的在切换世界，那么切回 main 之后，这个文件应该消失。
+这不是删除，是它只存在于 experiment 那条时间线上。
